@@ -9,4 +9,8 @@ List of coding challenges to practice JavaScript:
   * 05 - Reverse words  
   * 06 - Merge arrays  
   * 07 - Array iterations  
-  * 08 - Email validator  
+  * 08 - Email validator
+  * 09 - SSN Validator
+  * 10 - Roman numerals
+  * 11 - Student Registration
+  * 12 - Handle API response
